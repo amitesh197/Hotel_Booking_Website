@@ -1,6 +1,6 @@
 # Hotel Booking Website
 
-Welcome to the Hotel Booking Website repository! This project is a full-stack web application developed using MongoDB, ExpressJS, ReactJS, NodeJS, JWT, Cookies, Context API, Custom Hooks, React Calendar, Cloudinary, Material-UI, and Postman. The aim of this project is to provide a seamless experience for users to browse, search, and book hotels.
+This project is a full-stack web application developed using MongoDB, ExpressJS, ReactJS, NodeJS, JWT, Cookies, Context API, Custom Hooks, React Calendar, Cloudinary, Material-UI, and Postman. The aim of this project is to provide a seamless experience for users to browse, search, and book hotels.
 
 ## Features
 
@@ -20,6 +20,16 @@ Welcome to the Hotel Booking Website repository! This project is a full-stack we
 - **Database**: MongoDB
 - **Authentication**: JWT, Cookies
 - **Image Storage**: Cloudinary
+
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/7c9f3c07-ec79-4731-a79e-cbaf031dcbf8)
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/7a0b75c0-4fef-412a-94ba-f81da6114229)
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/15ecd8e1-e40a-4c10-b089-1ce8f70e795f)
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/bb08e1e0-7d1a-4ad8-9198-160ad19f9b7d)
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/334fc062-fc2e-432b-a93c-88e941b13c13)
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/b7fccf12-a1ba-4a82-98cc-149019abc487)
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/970b0da0-5d2b-48c5-9998-2bfdfd974ef7)
+![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/4475cb9a-594c-4d71-b98d-f8fd66a435e8)
+
 
 ## Installation
 
