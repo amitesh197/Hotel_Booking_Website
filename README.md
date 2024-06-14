@@ -21,6 +21,10 @@ This project is a full-stack web application developed using MongoDB, ExpressJS,
 - **Authentication**: JWT, Cookies
 - **Image Storage**: Cloudinary
 
+## Test User credentials - 
+email - admin@gmail.com, 
+password - admin
+
 ![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/7c9f3c07-ec79-4731-a79e-cbaf031dcbf8)
 ![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/7a0b75c0-4fef-412a-94ba-f81da6114229)
 ![image](https://github.com/amitesh197/Hotel_Booking_Website/assets/123076729/15ecd8e1-e40a-4c10-b089-1ce8f70e795f)
@@ -71,20 +75,11 @@ yarn
 yarn start
 ```
 
-6. Start the Admin Dashboard server:
-
-```bash
-cd admin
-yarn
-yarn start
-```
-
 ## Usage
 
 - Visit the website and register/login to access the available features.
 - Explore hotels, search for specific locations, and use filters to narrow down options.
 - Book a room by selecting the desired dates and number of guests.
-- Admins can access the admin panel to manage users, hotels, and rooms.
 
 ## Contributing
 
